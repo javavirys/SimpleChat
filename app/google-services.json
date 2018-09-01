@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "258431441947",
+    "firebase_url": "https://socketiochat-f7459.firebaseio.com",
+    "project_id": "socketiochat-f7459",
+    "storage_bucket": "socketiochat-f7459.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258431441947:android:611f6d7d4625fa90",
+        "android_client_info": {
+          "package_name": "com.example.javavirys.socketiochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258431441947-6agoleb0cm6ji8lb8th0sk3u8pot6h30.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.javavirys.socketiochat",
+            "certificate_hash": "c4cd033d194c0f85fc7da4ab831c26222ea3eb9c"
+          }
+        },
+        {
+          "client_id": "258431441947-askke1o9nl6b3juvmpj8ahe6vm4k6n35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVdKV8hlWp9iX_D7lxPrBuZ3aaqUjSrqc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258431441947-askke1o9nl6b3juvmpj8ahe6vm4k6n35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

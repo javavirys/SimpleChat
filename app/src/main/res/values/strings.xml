@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleChat</string>
+    <string name="send">Send</string>
+    <string name="Invalid_data">Invalid username or password</string>
+    <string name="Authentication">Authentication</string>
+    <string name="enter_msg">You must enter a message</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Простой чат</string>
+    <string name="send">Отправить</string>
+    <string name="Invalid_data">Неправильный логин или пароль</string>
+    <string name="Authentication">Вход</string>
+    <string name="enter_msg">Введите сообщение!</string>
+</resources>
